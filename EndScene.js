@@ -1,3 +1,4 @@
+//This code fulfills all the reqs for "Treasure Hunter" project in Codecademy
 class EndScene extends Phaser.Scene {
   constructor() {
     super({
