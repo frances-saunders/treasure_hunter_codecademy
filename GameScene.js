@@ -1,3 +1,5 @@
+//This code fulfills all the reqs for "Treasure Hunter" project in Codecademy
+
 // Create your global variables here
 let plot;
 let grid = [];
