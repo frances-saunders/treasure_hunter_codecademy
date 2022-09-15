@@ -1,3 +1,5 @@
+//This code fulfills all the reqs for "Treasure Hunter" project in Codecademy
+
 const config = {
   type: Phaser.AUTO,
   width: 480,
