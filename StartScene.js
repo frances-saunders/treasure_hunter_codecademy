@@ -1,3 +1,5 @@
+//This code fulfills all the reqs for "Treasure Hunter" project in Codecademy
+
 class StartScene extends Phaser.Scene {
   constructor() {
     super({
